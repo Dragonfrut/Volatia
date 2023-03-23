@@ -1,6 +1,8 @@
 title: Volatia
 description: ttpg doc
 theme: just-the-docs
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 
 url: https://Dragonfrut.github.io/Volatia
 
