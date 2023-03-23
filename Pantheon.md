@@ -24,14 +24,13 @@ nav_order: 2
 | Enarus (God)      | Victory, Dawn, Storms              |     |
 | Kaeko (Goddess)   | Innocence, Hearth, Passion         |     |
 | Miph (Goddess)    | Fate, Mysteries, Prophecies        |     |
-| Manineth (Goddess)| Sacrifice, Truth, Wishes          |     |
+| Manineth (Goddess)| Sacrifice, Truth, Wishes           |     |
 | Geandel(God)      | Feasts, Music, Revelry             |     |
+| Scoyr(God)        | Trade, Scales, Voyages             |     |
+| Coarel(Goddess)   | Rivers, Crossroads, Water          |     |
+| Jind(God)         | Sea, Torment, Regret               |     |
+| Sanacleese(Goddess)| Theft, Greed, Generosity          |     |
 
-
-
-
-
-## Old Gods
 | Old Gods                  |     |
 | ------------------------- | --- |
 | Void (Old God)       |     |
