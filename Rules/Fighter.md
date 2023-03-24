@@ -26,3 +26,23 @@ level, then 3 hp/level.
 **Armour and Shields:** Any.
 
 **Weapons:** Any.
+
+**Skills:** Leadership, Athletics, plus 4 of the following:
+Acrobatics, Arcane
+Lore, Deception,
+Detection, Divine Lore,
+Apothecary, Gather
+Information, General
+Lore, Insight,
+Persuasion, Sailing,
+Stealth, Traps & Locks,
+Wilderness Lore.
+
+
+| FIGHTER ATTACK BONUS |
+| ---------------------------- |
+| Level | 1 | 2 | 3 | 4 | 5 | 6 |
+| Bonus| 1 | 2 | 3 | 4 | 5 | 6 |
+| Level | 7 | 8 | 9 | 10 | 11 | 12 |
+| Bonus | 7 | 8 | 9 | 10 | 11 | 12 |
+
